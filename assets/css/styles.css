@@ -188,3 +188,6 @@ input:first-child {
 textarea {
   height: 185px;
 }
+p {
+  line-height: 2;
+}
