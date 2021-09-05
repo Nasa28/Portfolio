@@ -118,7 +118,7 @@ background: rgb(248, 132, 91);
 
 .project-2 {
   padding-left: 10px;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 98.35%), url(../images/Facebook.png);
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 98.35%), url(../images/home.png);
   height: 350px;
   background-size:cover;
   background-position: center;
@@ -136,7 +136,7 @@ background: rgb(248, 132, 91);
 
 .project-4 {
   padding-left: 10px;
-  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/Html-removebg-preview.png);
+  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/readmes.png);
   height: 260px;
   background-size: cover;
   margin: 15px auto;
@@ -145,7 +145,7 @@ background: rgb(248, 132, 91);
 
 .project-5 {
   padding-left: 10px;
-  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/nw.png);
+  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/readme.png);
   height: 260px;
   background-size: cover;
   margin: 15px auto;
