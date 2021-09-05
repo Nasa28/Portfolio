@@ -77,7 +77,7 @@ font-weight: bold;
  .project-1 {
   padding: 10px;
   background-position: center;
-  background: linear-gradient(90deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 98.35%), url(../images/rsz_1screenshot_from_2021-06-03_01-45-10.png);
+  background: url(../images/rsz_1screenshot_from_2021-06-03_01-45-10.png);
   height: 350px;
   background-size:cover;
 
@@ -118,7 +118,7 @@ background: #BC3A0B;
 
 .project-2 {
   padding-left: 10px;
-  background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 98.35%), url(../images/home.png);
+  background:  url(../images/home.png);
   height: 350px;
   background-size:cover;
   background-position: center;
@@ -127,7 +127,7 @@ background: #BC3A0B;
 
 .project-3 {
   padding-left: 10px;
-  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/1-removebg-preview.png);
+  background:  url(../images/1-removebg-preview.png);
   height: 260px;
   background-size: cover;
   margin: 15px auto;
@@ -136,7 +136,7 @@ background: #BC3A0B;
 
 .project-4 {
   padding-left: 10px;
-  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/readmes.png);
+  background: url(../images/readmes.png);
   height: 260px;
   background-size: cover;
   margin: 15px auto;
@@ -145,7 +145,7 @@ background: #BC3A0B;
 
 .project-5 {
   padding-left: 10px;
-  background: linear-gradient(180.12deg, rgba(0, 0, 0, 0.264) -18.68%, rgba(0, 0, 0, 0) 44.86%), url(../images/readme.png);
+  background:  url(../images/readme.png);
   height: 260px;
   background-size: cover;
   margin: 15px auto;
