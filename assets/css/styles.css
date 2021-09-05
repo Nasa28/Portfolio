@@ -5,11 +5,13 @@
   font-style: normal;
   font-weight: normal;
   font-family: 'Poppins', sans-serif;
+
 }
-main {
+
+body {
   background-color: rgb(243, 243, 242);
-  padding: 10px;
 }
+
 header{
   margin-top: 10px;
   display: flex;
