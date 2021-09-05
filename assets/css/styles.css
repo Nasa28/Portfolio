@@ -84,6 +84,10 @@ font-weight: bold;
   margin: 15px auto;
 }
 
+.mytopic{
+  color: #BC3A0B;
+  font-weight: bold;
+}
 .lang-list button{
  margin-bottom: 10px;
  background-color: rgba(75, 73, 72, 0.6);
