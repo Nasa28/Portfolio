@@ -19,7 +19,7 @@ header{
 .modal-btn a {
 display: block;
 text-align: center;
-background-color: rgb(248, 132, 91);
+background-color: #D85222;
 width: 30%;
 padding: 10px auto;
 margin: 10px auto;
@@ -56,7 +56,7 @@ font-weight: bold;
 }
 
 .nav_items:first-child a, .social_list a{
-  color:rgb(248, 132, 91);
+  color:#D85222;
 }
 .img {
   height: 150px;
@@ -93,7 +93,7 @@ font-weight: bold;
 }
 
 .show-more button {
-background: rgb(248, 132, 91);
+background: #D85222;
  border: solid 2px black;
  width: 300px;
  height: 40px;
@@ -105,7 +105,7 @@ background: rgb(248, 132, 91);
 }
 
 .resume button {
-  background-color: rgb(248, 132, 91);
+  background-color: #D85222;
   border: solid 2px black;
   width: 50%;
   height: 40px;
@@ -153,7 +153,7 @@ background: rgb(248, 132, 91);
 }
 
 footer {
-  background-color:rgb(248, 132, 91);
+  background-color:#D85222;
   color: aliceblue;
 }
 
